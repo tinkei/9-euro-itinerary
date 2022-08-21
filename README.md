@@ -9,7 +9,8 @@ Travel plans for the final days of the 9€ ticket.
 * 0821 (Sun) Burghausen
   * Burghausen Castle
     * Opens daily
-* 0822 (Mon) Passau
+* <s>0822 (Mon) Passau</s>
+  * https://vbp.stadtwerke-passau.de/busfahrplaene.html
   * Veste Oberhaus
     * Opens daily
     * Reduced €4
@@ -28,7 +29,7 @@ Travel plans for the final days of the 9€ ticket.
     * Opens daily
     * €6.50
     * Every half hour every day from 10am to 4:30pm
-    * Please bring a jacket because the cave temperature is +9°C.
+    * Bring a jacket because the cave temperature is +9°C.
 * 0824 (Wed) Hohenschwangau Castle
   * Students 20.50€
   * English tour at 15:05
@@ -77,6 +78,9 @@ Will be staying at a&o Hostel Nürnberg:
     * German guided tours every 45 minutes.
   * Zwernitz Castle (Wonsees-Sanspareil)
     * Closed Mondays
+  * Plassenburg Castle (Kulmbach)
+    * Opens daily
+    * The Museum can be visited only with a guided tour (in German)
 * 0828 (Sun) Coburg
   * Ehrenburg Palace
     * Closed Mondays
@@ -98,6 +102,9 @@ Will be staying at a&o Hostel Nürnberg:
   * Marienberg Fortress and Prince's Building
     * Closed Mondays
     * German guided tour Tue to Sun every hour
+  * Veitshöchheim Palace (Veitshöchheim)
+    * Closed Mondays
+    * Visit possible only with a guided tour.
 * 0831 (Wed) Nürnberg
   * Imperial Castle
     * Opens daily
@@ -113,7 +120,8 @@ Will be staying at a&o Hostel Nürnberg:
 
 
 
-## 01<sup>st</sup> - 14<sup>th</sup> September
+## 01<sup>st</sup> - 24<sup>th</sup> September
+
 * Munich
   * Munich Residence, Treasury, Cuvilliés Theatre
   * Hall of Fame and Statue of Bavaria
@@ -124,6 +132,7 @@ Will be staying at a&o Hostel Nürnberg:
 
 
 ## 10<sup>th</sup> - ??<sup>th</sup> September
+
 * Salzburg
 * Berchtesgaden
 * Königssee
