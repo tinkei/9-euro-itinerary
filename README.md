@@ -28,20 +28,54 @@ Travel plans for the final days of the 9€ ticket.
     * Reduced €4
     * The observation tower is currently closed
 * 0823 (Tue) **Kelheim**
-  * Hall of Liberation
+  * 06:45 OSH -> Freising -> Regensburg 08:33
+  * 08:46 Regensburg -> Saal (Donau) 09:07
+  * 09:14 Saal/Donau, Bahnhof -> Kelheim, Wöhrdplatz/Zentrum 09:28 (VLK2) or 09:34 (VLK1)
+  * Befreiungshalle, Hall of Liberation
     * Opens daily
-  * Prunn Castle (Prunn im Altmühltal)
-    * Opens daily
-    * Visit possible only with a guided tour.
-    * German guided tours every 45 minutes.
-  * Rosenburg Castle (Riedenburg)
-    * Closed Mondays
-    * Admittance only after the falconry demonstrations (11am, 3pm)
+  * 11:34 Kelheim, Wöhrdplatz/Zentrum (VLK1) -> Oberau, Schulerloch 11:41
   * Tropfsteinhöhle Schulerloch
     * Opens daily
     * €6.50
     * Every half hour every day from 10am to 4:30pm
+    * Requires 1.5h
     * Bring a jacket because the cave temperature is +9°C.
+  * <s>OR 11:34 Kelheim, Wöhrdplatz/Zentrum (VLK1) -> Essing, Staatsstr./Abzw. Kreisstraße 11:43</s>
+  * 12:45 Hike 49 min, 2.6km 13:35
+  * Burg Randeck
+    * 25 min hike
+  * <s>12:47 Essing, Staatsstr./Abzw. Kreisstraße -> Nußhausen, Abzw. Staatsstraße 12:53</s>
+  * 14:45 Essing, Staatsstr./Abzw. Kreisstraße -> Nußhausen, Abzw. Staatsstraße 14:51
+  * Prunn Castle (Prunn im Altmühltal)
+    * Opens daily
+    * Visit possible only with a guided tour.
+    * German guided tours every 45 minutes.
+  * <s>14:51 Nußhausen, Abzw. Staatsstraße -> Riedenburg, Großparkplatz/Zentrum 14:58</s>
+  * 15:51 Nußhausen, Abzw. Staatsstraße -> Riedenburg, Großparkplatz/Zentrum 15:58
+  * 16:58 Nußhausen, Abzw. Staatsstraße -> Riedenburg, Großparkplatz/Zentrum 17:07
+  * Burgruine Tachenstein
+    * 14-min hike
+  * Burgruine Rabenstein
+    * 13-min hike
+  * Rosenburg Castle (Riedenburg)
+    * Closed Mondays
+    * Admittance only after the falconry demonstrations (11am, 3pm)
+  * 16:51 Riedenburg, Großparkplatz/Zentrum -> Saal/Donau, Bahnhof 17:37
+  * 17:53 Riedenburg, Großparkplatz/Zentrum -> Saal/Donau, Bahnhof 18:30
+  * 19:55 Riedenburg, Großparkplatz/Zentrum -> Saal/Donau, Bahnhof 20:37
+  * 17:42 Saal (Donau) -> Regensburg 18:07
+  * 18:44 Saal (Donau) -> Regensburg 19:10
+  * <s>19:42 Saal (Donau) -> Regensburg 20:07</s>
+  * 20:44 Saal (Donau) -> Regensburg 21:10
+  * 20:46 Saal (Donau) -> Ingolstadt Hbf 21:43
+  * 21:49 Saal (Donau) -> Ingolstadt Hbf 22:40
+  * **XX:XX Ingolstadt -> OSH XX:XX**
+  * 19:15 Regensburg -> Freising -> OSH 24:30
+    * Need SEV!
+  * 21:15 Regensburg -> Freising -> OSH 23:30
+    * Need SEV!
+  * 22:15 Regensburg -> Freising -> OSH 23:54
+    * Need SEV!
 * 0824 (Wed) **Hohenschwangau Castle**
   * Students 20.50€
   * English tour at 15:05
