@@ -6,7 +6,7 @@ Travel plans for the final days of the 9€ ticket.
 
 ## 21<sup>st</sup> - 25<sup>th</sup> August
 
-* 0821 (Sun) Burghausen
+* 0821 (Sun) **Burghausen**
   * 09:45 OSH -> Freising -> Landshut -> Mühldorf -> Burghausen 12:15
   * 12:35 Bus #1 from Bahnhof/ZOB to Finanzamt (long way around)
   * Visit Wallfahrtskirche Maria Ach, Pulverturm exterior, and KZ-Friedhof
@@ -21,13 +21,13 @@ Travel plans for the final days of the 9€ ticket.
   * Sunset at Ausichtspunkt
   * Annual festival "Weisenblasen am Wöhrsee" at night!
   * 21:55 Burghausen (last train) -> Mühldorf -> Ostbahnhof -> OSH 00:44
-* 0822 (Mon) <s>Passau</s> _Cancelled_
+* 0822 (Mon) <s>**Passau**</s> _Cancelled_
   * https://vbp.stadtwerke-passau.de/busfahrplaene.html
   * Veste Oberhaus
     * Opens daily
     * Reduced €4
     * The observation tower is currently closed
-* 0823 (Tue) Kelheim
+* 0823 (Tue) **Kelheim**
   * Hall of Liberation
     * Opens daily
   * Prunn Castle (Prunn im Altmühltal)
@@ -42,10 +42,10 @@ Travel plans for the final days of the 9€ ticket.
     * €6.50
     * Every half hour every day from 10am to 4:30pm
     * Bring a jacket because the cave temperature is +9°C.
-* 0824 (Wed) Hohenschwangau Castle
+* 0824 (Wed) **Hohenschwangau Castle**
   * Students 20.50€
   * English tour at 15:05
-* 0825 (Thu) <s>Herrenchiemsee</s> _Cancelled_
+* 0825 (Thu) <s>**Herrenchiemsee**</s> _Cancelled_
   * New Palace and King Ludwig II Museum
   * Museum in Augustinian Monastery (Old Palace)
   * Ship to both islands 10,40 €
@@ -56,7 +56,7 @@ Travel plans for the final days of the 9€ ticket.
 ## 26<sup>th</sup> - 31<sup>st</sup> August
 Will be staying at a&o Hostel Nürnberg:
 
-* 0826 (Fri) Bamberg
+* 0826 (Fri) **Bamberg**
   * New Residence in Bamberg
     * Opens daily
   * Seehof Palace (Memmelsdorf)
@@ -65,7 +65,7 @@ Will be staying at a&o Hostel Nürnberg:
     * Not included in annual ticket.
     * Students 3 €
     * Closed Mondays
-* 0827 (Sat) Bayreuth
+* 0827 (Sat) **Bayreuth**
   * https://www.bayreuth-wilhelmine.de/englisch/tourist/opening.htm
   * New Palace
     * Opens daily
@@ -89,7 +89,7 @@ Will be staying at a&o Hostel Nürnberg:
   * Plassenburg Castle (Kulmbach)
     * Opens daily
     * The Museum can be visited only with a guided tour (in German)
-* 0828 (Sun) Coburg
+* 0828 (Sun) **Coburg**
   * Ehrenburg Palace
     * Closed Mondays
     * Visit possible only with a guided tour.
@@ -102,8 +102,8 @@ Will be staying at a&o Hostel Nürnberg:
     * Closed Mondays
     * Visit possible only with a guided tour.
     * German guided tours start every hour on the hour
-* 0829 (Mon) Rothenburg
-* 0830 (Tue) Würzburg
+* 0829 (Mon) **Rothenburg**
+* 0830 (Tue) **Würzburg**
   * Würzburg Residence
     * Opens daily
     * English guided tours at 11am and 3pm
@@ -113,7 +113,7 @@ Will be staying at a&o Hostel Nürnberg:
   * Veitshöchheim Palace (Veitshöchheim)
     * Closed Mondays
     * Visit possible only with a guided tour.
-* 0831 (Wed) Nürnberg
+* 0831 (Wed) **Nürnberg**
   * Imperial Castle
     * Opens daily
     * The Deep Well can only be visited with a guided tour.
@@ -130,7 +130,7 @@ Will be staying at a&o Hostel Nürnberg:
 
 ## 01<sup>st</sup> - 24<sup>th</sup> September
 
-* Munich
+* **Munich**
   * Munich Residence, Treasury, Cuvilliés Theatre
   * Hall of Fame and Statue of Bavaria
   * Nymphenburg Palace
@@ -141,9 +141,9 @@ Will be staying at a&o Hostel Nürnberg:
 
 ## 10<sup>th</sup> - ??<sup>th</sup> September
 
-* 09?? Salzburg
-* 09?? Berchtesgaden
-* 09?? Königssee
+* 09?? **Salzburg**
+* 09?? **Berchtesgaden**
+* 09?? **Königssee**
   * St. Bartholomew's Church
-* 09?? Augsburg again
-* 09?? Konstanz, Lindau, Friedrichshafen
+* 09?? **Augsburg** again
+* 09?? **Konstanz, Lindau, Friedrichshafen**
