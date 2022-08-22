@@ -45,15 +45,11 @@ Travel plans for the final days of the 9€ ticket.
 * 0824 (Wed) Hohenschwangau Castle
   * Students 20.50€
   * English tour at 15:05
-* 0825 (Thu) Herrenchiemsee
+* 0825 (Thu) <s>Herrenchiemsee</s> _Cancelled_
   * New Palace and King Ludwig II Museum
   * Museum in Augustinian Monastery (Old Palace)
   * Ship to both islands 10,40 €
   * Ship to only Herreninsel 9,00 €
-* 08?? Berchtesgaden!!!!
-* 08?? Königssee
-* 08?? Augsburg again
-* 08?? Konstanz, Lindau, Friedrichshafen
 
 
 
@@ -145,7 +141,9 @@ Will be staying at a&o Hostel Nürnberg:
 
 ## 10<sup>th</sup> - ??<sup>th</sup> September
 
-* Salzburg
-* Berchtesgaden
-* Königssee
+* 09?? Salzburg
+* 09?? Berchtesgaden
+* 09?? Königssee
   * St. Bartholomew's Church
+* 09?? Augsburg again
+* 09?? Konstanz, Lindau, Friedrichshafen
