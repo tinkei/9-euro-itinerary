@@ -90,6 +90,47 @@ Travel plans for the final days of the 9€ ticket.
 ## 26<sup>th</sup> - 31<sup>st</sup> August
 Will be staying at a&o Hostel Nürnberg:
 
+### New plan:
+
+* 0826 (Fri) **Nürnberg and Plassenburg (Kulmbach)** _???_
+* 0827 (Sat) **Rothenburg and Dinkelsbühl**
+  * Outbound leg
+    * 06:26 Munich -> Treuchtlingen -> Ansbach -> Dombühl -> Dinkelsbühl 10:08
+    * 08:37 Nürnberg -> Dombühl -> Dinkelsbühl 10:08
+  * Connection with train
+    * 14:24 Dinkelsbühl -> Dombühl -> Ansbach -> Steinach -> Rothenburg 16:51 (2h27min)
+    * 15:44 Dinkelsbühl -> Dombühl -> Ansbach -> Steinach -> Rothenburg 17:52 (2h08min)
+  * Connection with bus
+    * 14:20 Dinkelsbühl -> Dombühl Lindenstr. -> Rothenburg 16:25 (2h05min)
+  * Return trip
+    * 20:05 Rothenburg -> Steinach -> Ansbach -> Nürnberg 21:20
+    * 22:05 Rothenburg -> Steinach -> Ansbach -> Nürnberg 23:20
+* 0828 (Sun) **Coburg and Bamberg**
+  * Outbound leg
+    * 08:10 Nürnberg -> Coburg 09:20 (1h10min)
+    * 10:10 Nürnberg -> Coburg 11:17 (1h07min)
+    * 05:40 Rothenburg -> Steinach -> Ansbach -> Nürnberg -> Coburg 09:20 (3h40min)
+    * 08:05 Rothenburg -> Steinach -> Neustadt (Aisch) -> Fürth (Bay) -> Coburg 11:17 (3h12min)
+  * Connection
+    * 12:38 Coburg -> Bamberg 13:02 (0h26min)
+    * 13:32 Coburg -> Bamberg 14:36 (1h04min)
+  * Return trip
+    * 19:39 Bamberg -> Nürnberg -> Munich 22:54 (3h15min)
+    * 20:38 Bamberg -> Nürnberg -> Munich 00:20 (3h42min)
+* 0829 (Mon) **Würzburg and Frankfurt**
+  * Outbound leg
+    * 07:04 Nürnberg -> Würzburg 08:17 (1h13min)
+    * 08:05 Nürnberg -> Würzburg 09:16 (1h11min)
+    * 09:05 Nürnberg -> Würzburg 10:16 (1h11min)
+  * Return trip
+    * 14:41 Würzburg -> Nürnberg 15:54 (1h13min)
+    * 14:37 Würzburg -> Frankfurt 16:32 (1h55min)
+* 0830 (Tue) **Bayreuth** _???_
+* 0831 (Wed) **Nürnberg** _???_
+
+
+### Old plan:
+
 * 0826 (Fri) **Bamberg**
   * New Residence in Bamberg
     * Opens daily
