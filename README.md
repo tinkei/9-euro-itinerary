@@ -22,11 +22,11 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
 
 ### Nürnberg plan: Travel schedules
 
-* 0826 (Fri) **Nürnberg and Kulmbach (and Wonsees?)**
+* 0826 (Fri) **Nürnberg and Kulmbach**
 * 0827 (Sat) **Dinkelsbühl and Rothenburg (and Ansbach?)**
   * Outbound leg
     * 07:45 OSH -> Freising -> Nürnberg -> Dombühl -> Dinkelsbühl 12:08
-    * 10:38 Nürnberg -> Dombühl -> Dinkelsbühl 10:08
+    * 10:38 Nürnberg -> Dombühl -> Dinkelsbühl 12:08
   * Connection with train
     * 14:24 Dinkelsbühl -> Dombühl -> Ansbach -> Steinach -> Rothenburg 16:51 (2h27min)
     * 15:44 Dinkelsbühl -> Dombühl -> Ansbach -> Steinach -> Rothenburg 17:52 (2h08min)
@@ -60,7 +60,7 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
 
 ### Nürnberg plan: Main sights
 
-* 0826 (Fri) **Nürnberg and Kulmbach (and Wonsees?)**
+* 0826 (Fri) **Nürnberg and Kulmbach**
   * Kulmbach
     * Plassenburg Castle
       * Opens daily
@@ -150,12 +150,6 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * German guided tours every 45 minutes.
   * Garden Museum Fantaisie Palace (Donndorf)
     * Closed Mondays
-  * Oriental Building (Wonsees-Sanspareil)
-    * Closed Mondays
-    * Visit possible only with a guided tour.
-    * German guided tours every 45 minutes.
-  * Zwernitz Castle (Wonsees-Sanspareil)
-    * Closed Mondays
 * 0831 (Wed) **Nürnberg**
   * Imperial Castle
     * Opens daily
@@ -203,3 +197,13 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
   * Museum in Augustinian Monastery (Old Palace)
   * Ship to both islands 10,40€
   * Ship to only Herreninsel 9,00€
+* <s>**Wonsees-Sanspareil**</s> _Implausible to reach by bus/train_
+  * Near Bayreuth, but only reachable via Kulmbach!
+  * Bus #399.1 and #399.2, **run only on weekends and holidays!!!**
+  * Bus #8435 only @ 06:19, 16:18 daily from Kulmbach, and only @ 05:13 from Wonsees...
+  * Zwernitz Castle (Wonsees-Sanspareil)
+    * Closed Mondays
+  * Oriental Building (Wonsees-Sanspareil)
+    * Closed Mondays
+    * Visit possible only with a guided tour.
+    * German guided tours every 45 minutes.
