@@ -22,7 +22,24 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
 
 ### Nürnberg plan: Travel schedules
 
-* 0826 (Fri) **Nürnberg and Kulmbach**
+* 0826 (Fri) **Kulmbach**
+  * Outbound leg
+    * 07:45 OSH -> Freising -> Nürnberg 10:23
+    * 08:15 OSH -> Munich Hbf -> Nürnberg 10:49
+    * 09:45 OSH -> Freising -> Nürnberg 12:22
+    * 10:15 OSH -> Munich Hbf -> Nürnberg 12:49
+  * Connection
+    * 11:38 Nürnberg -> Lichtenfels -> Kulmbach 13:15
+    * 12:38 Nürnberg -> Lichtenfels -> Kulmbach 14:21
+  * Connection
+    * 14:30 Kulmbach ZOB Bus #5 -> Plassenburg 14:37
+      * Every 30min till 17:00
+  * Return trip
+    * 17:37 Kulmbach -> Lichtenfels -> Nürnberg 19:17
+    * 18:41 Kulmbach -> Lichtenfels -> Nürnberg 20:19
+    * 19:36 Kulmbach -> Lichtenfels -> Nürnberg 21:19
+    * 20:36 Kulmbach -> Lichtenfels -> Nürnberg 22:20
+    * 21:38 Kulmbach -> Lichtenfels -> Nürnberg 23:19
 * 0827 (Sat) **Dinkelsbühl and Rothenburg (and Ansbach?)**
   * Outbound leg
     * 07:45 OSH -> Freising -> Nürnberg -> Dombühl -> Dinkelsbühl 12:08
@@ -55,23 +72,26 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
   * Return trip
     * 14:41 Würzburg -> Nürnberg 15:54 (1h13min)
     * 14:37 Würzburg -> Frankfurt 16:32 (1h55min)
-* 0830 (Tue) **Bayreuth** _???_
-* 0831 (Wed) **Nürnberg** _???_
+* 0830 (Tue) **Bayreuth**
+* 0831 (Wed) **Nürnberg**
 
 ### Nürnberg plan: Main sights
 
 * 0826 (Fri) **Nürnberg and Kulmbach**
+  * Nürnberg
+    * Leave bags at hostel locker
   * Kulmbach
     * Plassenburg Castle
-      * Opens daily
-      * The Museum can be visited only with a guided tour (in German)
-      * Bus #5 from ZOB to Plassenburg
+      * Opens daily 9am - 6pm
+      * There are 4 museums inside!
+      * "The Hohenzollerns in Franconia" museum can be visited only with a guided tour (in German) 9:15am - 3:15pm every hour and at 4:30pm
+      * Bus #5 from Kulmbach ZOB to Plassenburg
     * Walk around the old town from East to West
-    * Three museums: Brewery, bakery, spice
-      * Closed Mondays
-      * Opens till 5pm
-      * Bus #1 from ZOB/Stadthalle to Blaich: Museen im Mönchshof
+    * Museen im Mönchshof
+      * Three museums: Brewery, bakery, spice
+      * Opens 10am - 5pm, closed Mondays
       * Student price: €6 for one, €10 for two, €14 for three
+      * Bus #1 from ZOB/Stadthalle to Blaich: Museen im Mönchshof
 * 0827 (Sat) **Dinkelsbühl and Rothenburg (and Ansbach?)**
   * Dinkelsbühl
     * Münster St. Georg
@@ -200,7 +220,7 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
 * <s>**Wonsees-Sanspareil**</s> _Implausible to reach by bus/train_
   * Near Bayreuth, but only reachable via Kulmbach!
   * Bus #399.1 and #399.2, **run only on weekends and holidays!!!**
-  * Bus #8435 only @ 06:19, 16:18 daily from Kulmbach, and only @ 05:13 from Wonsees...
+  * Bus #8435 only @ 06:19, 16:18 daily from Kulmbach, but return only @ 05:13 from Wonsees...
   * Zwernitz Castle (Wonsees-Sanspareil)
     * Closed Mondays
   * Oriental Building (Wonsees-Sanspareil)
