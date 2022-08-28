@@ -24,54 +24,46 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
 
 * 0826 (Fri) **Kulmbach**
   * Outbound leg
-    * 07:45 OSH -> Freising -> Nürnberg 10:23
+    * <s>07:45 OSH -> Freising -> Nürnberg 10:23</s> _Only 4 min to transfer_
     * 08:15 OSH -> Munich Hbf -> Nürnberg 10:49
-    * 09:45 OSH -> Freising -> Nürnberg 12:22
-    * 10:15 OSH -> Munich Hbf -> Nürnberg 12:49
   * Connection
     * 11:38 Nürnberg -> Lichtenfels -> Kulmbach 13:15
-    * 12:38 Nürnberg -> Lichtenfels -> Kulmbach 14:21
+      * **DELAYED OVER 70 MINUTES!!!**
+    * <s>12:38 Nürnberg -> Lichtenfels -> Kulmbach 14:21</s>
   * Connection
     * 14:30 Kulmbach ZOB Bus #5 -> Plassenburg 14:37
       * Every 30min till 17:00
   * Return trip
-    * 17:37 Kulmbach -> Lichtenfels -> Nürnberg 19:17
     * 18:41 Kulmbach -> Lichtenfels -> Nürnberg 20:19
-    * 19:36 Kulmbach -> Lichtenfels -> Nürnberg 21:19
-    * 20:36 Kulmbach -> Lichtenfels -> Nürnberg 22:20
-    * 21:38 Kulmbach -> Lichtenfels -> Nürnberg 23:19
 * 0827 (Sat) **Dinkelsbühl and Rothenburg (and Ansbach?)**
   * Outbound leg
     * 07:45 OSH -> Freising -> Nürnberg -> Dombühl -> Dinkelsbühl 12:08
     * 10:38 Nürnberg -> Dombühl -> Dinkelsbühl 12:08
   * Connection with train
-    * 14:24 Dinkelsbühl -> Dombühl -> Ansbach -> Steinach -> Rothenburg 16:51 (2h27min)
-    * 15:44 Dinkelsbühl -> Dombühl -> Ansbach -> Steinach -> Rothenburg 17:52 (2h08min)
+    * <s>14:24 Dinkelsbühl -> Dombühl -> Ansbach -> Steinach -> Rothenburg 16:51 (2h27min)</s>
+    * <s>15:44 Dinkelsbühl -> Dombühl -> Ansbach -> Steinach -> Rothenburg 17:52 (2h08min)</s>
   * Connection with bus
     * 14:20 Dinkelsbühl -> Dombühl Lindenstr. -> Rothenburg 16:25 (2h05min)
+      * **807 is a Rufbus!!!**
   * Return trip
-    * 20:05 Rothenburg -> Steinach -> Ansbach -> Nürnberg 21:20
     * 22:05 Rothenburg -> Steinach -> Ansbach -> Nürnberg 23:20
-* 0828 (Sun) **Coburg and Bamberg**
+* 0828 (Sun) **Bamberg**
   * Outbound leg
-    * 08:10 Nürnberg -> Coburg 09:20 (1h10min)
-    * 10:10 Nürnberg -> Coburg 11:17 (1h07min)
-    * <s>05:40 Rothenburg -> Steinach -> Ansbach -> Nürnberg -> Coburg 09:20 (3h40min)</s>
-    * <s>08:05 Rothenburg -> Steinach -> Neustadt (Aisch) -> Fürth (Bay) -> Coburg 11:17 (3h12min)</s>
+    * <s>08:10 Nürnberg -> Coburg 09:20 (1h10min)</s>
+    * 10:40 Nürnberg -> Bamberg 11:XX
   * Connection
-    * 12:38 Coburg -> Bamberg 13:02 (0h26min)
-    * 13:32 Coburg -> Bamberg 14:36 (1h04min)
+    * 16:10 Bamberg ZOB -> Seehof 16:29
+    * 17:51 Seehof -> Bamberg Hbf 18:08
   * Return trip
-    * 19:39 Bamberg -> Nürnberg -> Munich 22:54 (3h15min)
-    * 20:38 Bamberg -> Nürnberg -> Munich 00:20 (3h42min)
-* 0829 (Mon) **Würzburg and Frankfurt**
+    * 17:04 Bamberg -> Nürnberg -> Munich 19:57
+    * 18:08 Bamberg -> Nürnberg **20:20**
+    * <s> 19:39 Bamberg -> Nürnberg -> Munich 22:54 (3h15min)</s>
+* 0829 (Mon) **Würzburg**
   * Outbound leg
-    * 07:04 Nürnberg -> Würzburg 08:17 (1h13min)
-    * 08:05 Nürnberg -> Würzburg 09:16 (1h11min)
-    * 09:05 Nürnberg -> Würzburg 10:16 (1h11min)
+    * 10:05 Nürnberg -> Würzburg 11:16 (1h11min)
   * Return trip
-    * 14:41 Würzburg -> Nürnberg 15:54 (1h13min)
-    * 14:37 Würzburg -> Frankfurt 16:32 (1h55min)
+    * 16:40 Würzburg -> Nürnberg 17:54 (1h14min)
+    * <s>14:37 Würzburg -> Frankfurt 16:32 (1h55min)</s>
 * 0830 (Tue) **Bayreuth**
 * 0831 (Wed) **Nürnberg**
 
@@ -110,8 +102,8 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
       * Adult 8€, student 5€.
     * Marktplatz
     * Burggarten
-* 0828 (Sun) **Coburg and Bamberg**
-  * Coburg
+* 0828 (Sun) **Bamberg**
+  * <s>Coburg</s> _Cancelled_
     * Coburg Castle (Veste Coburg)
       * Bus #5, every hourat XX:17 from ZOB to Veste Coburg at XX:17
       * Opens daily
@@ -133,7 +125,7 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * Take bus to New Residence
     * New Residence in Bamberg
       * Opens daily
-    * Old town -> cathedral -> old rathaus -> ZOB -> Seehof Palace (Bus #907/#917)
+    * Old town -> Bamberg Cathedral -> Old Rathaus -> ZOB -> Seehof Palace (Bus #907/#917)
     * Seehof Palace (Memmelsdorf)
       * Closed Mondays
     * <s>Historisches Museum</s>
@@ -142,7 +134,7 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
       * Closed Mondays
     * <s>Klosteranlage Michaelsberg</s>
       * Closed for renovation
-* 0829 (Mon) **Würzburg and Frankfurt**
+* 0829 (Mon) **Würzburg**
   * Würzburg
     * Würzburger Residenz
       * Opens daily
