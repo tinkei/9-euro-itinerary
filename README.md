@@ -65,6 +65,9 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * 16:40 Würzburg -> Nürnberg 17:54 (1h14min)
     * <s>14:37 Würzburg -> Frankfurt 16:32 (1h55min)</s>
 * 0830 (Tue) **Bayreuth**
+  * Outbound leg
+    * 07:32 Nürnberg SEV (Nelson-Mandela-Platz/Südausgang) -> Hersbruck(r Pegnitz) -> Bayreuth Hbf 08:57 (1h25min)
+    * 08:05 Nürnberg SEV (Nelson-Mandela-Platz/Südausgang) -> Hersbruck(r Pegnitz) -> Bayreuth Hbf 09:31 (1h26min)
 * 0831 (Wed) **Nürnberg**
 
 ### Nürnberg plan: Main sights
@@ -149,19 +152,25 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * Frankfurter Römer, Paulskirche, Frankfurt Cathedral, Eiserner Steg, Städel Museum, Main Tower
 * 0830 (Tue) **Bayreuth**
   * https://www.bayreuth-wilhelmine.de/englisch/tourist/opening.htm
+  * Margravial Opera House
+    * Opens daily 9am to 6pm
+      * **But closed 30th afternoon, and 31th whole day**
+    * Lecture in English: 10:30
   * New Palace
     * Opens daily
     * The Italian Palace can only be visited with a guided tour
-    * Every 30 minutes; duration 45 minutes, in German only, maximum 10 people.
-  * Margravial Opera House
-    * Opens daily (closed 30th afternoon, and 31th)
-    * Lecture in English: 10.30 am
+      * Every 30 minutes; duration 45 minutes, in German only, maximum 10 people.
   * Hermitage Old Palace
     * Opens daily
     * Visit possible only with a guided tour.
     * German guided tours every 45 minutes.
+    * Waterworks from May to mid-October every hour:
+      * Bassin at the New Palace 12 pm-5 pm
+      * Lower Grotto 12.15 pm-5.15 pm
+    * Bus 302/**303**/307 every few minutes until at least 7pm
   * Garden Museum Fantaisie Palace (Donndorf)
     * Closed Mondays
+    * Bus 373/375/376/396 every 30 minutes until at least 7pm
 * 0831 (Wed) **Nürnberg**
   * Imperial Castle
     * Opens daily
