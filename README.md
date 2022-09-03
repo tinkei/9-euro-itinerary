@@ -69,6 +69,15 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * 07:32 Nürnberg SEV (Nelson-Mandela-Platz/Südausgang) -> Hersbruck(r Pegnitz) -> Bayreuth Hbf 08:57 (1h25min)
     * 08:05 Nürnberg SEV (Nelson-Mandela-Platz/Südausgang) -> Hersbruck(r Pegnitz) -> Bayreuth Hbf 09:31 (1h26min)
 * 0831 (Wed) **Nürnberg**
+  * Outbound leg
+    * 14:03 Nürnberg Fürth(Bay)Hbf -> Cadolzburg (Bus #126) -> Burg, Cadolzburg 14:31
+  * Connection
+    * 15:31 Burg, Cadolzburg (Bus #126) -> Siegelsdorf 15:52
+    * 16:01 Siegelsdorf (S6) -> Nürnberg 16:20
+    * 16:38 Nürnberg (RE90) -> Ansbach 17:06
+  * Return trip
+    * 19:14 Nürnberg -> Regensburg -> Freising -> OSH 23:44
+      * **Insane 90min delay!!!**
 
 ### Nürnberg plan: Main sights
 
@@ -93,10 +102,6 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * Altstadt
     * Deutsches Haus
     * Towers
-  * Ansbach
-    * Ansbach Residenz
-    * Orangerie
-    * <s>Christ-König-Kirche</s> _Too far_
   * Rothenburg
     * Walk along city walls
     * Main streets: Schmiedgasse, Herrngasse
@@ -172,17 +177,22 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * Closed Mondays
     * Bus 373/375/376/396 every 30 minutes until at least 7pm
 * 0831 (Wed) **Nürnberg**
+  * Frauenkirche and Sebalduskirche interior
+    * Sebald has occasional guided tours to visit its towers!
   * Imperial Castle
     * Opens daily
-    * The Deep Well can only be visited with a guided tour.
-  * Museum Tucherschloss und Hirsvogelsaal
-    * Not included in annual ticket. Might get reduced admission as student.
-  * Rothenberg Fortress Ruins (Schnaittach)
-    * Not included in annual ticket.
-    * Opens Wed to Sun.
-    * 5€
+    * The Deep Well can only be visited with a guided tour every XX:00 or XX:30
+      * Have seen plenty of castle wells over twice as deep this week...
   * Burg Cadolzburg (Cadolzburg near Fürth)
     * Closed Mondays
+    * Mainly for kids!
+  * Ansbach
+    * Ansbach Residenz
+      * Festival Hall under major restoration!
+    * <s>Orangerie</s> _No time_
+    * <s>Christ-König-Kirche</s> _Too far_
+  * <s>Museum Tucherschloss und Hirsvogelsaal</s>
+    * Not included in annual ticket. Might get reduced admission as student.
 
 
 
@@ -221,10 +231,16 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
 * <s>**Wonsees-Sanspareil**</s> _Implausible to reach by bus/train_
   * Near Bayreuth, but only reachable via Kulmbach!
   * Bus #399.1 and #399.2, **run only on weekends and holidays!!!**
-  * Bus #8435 only @ 06:19, 16:18 daily from Kulmbach, but return only @ 05:13 from Wonsees...
+  * Bus #8435 only @ 06:19, 16:18 daily from Kulmbach, **but return only @ 05:13 from Wonsees**...
   * Zwernitz Castle (Wonsees-Sanspareil)
     * Closed Mondays
   * Oriental Building (Wonsees-Sanspareil)
     * Closed Mondays
     * Visit possible only with a guided tour.
     * German guided tours every 45 minutes.
+* <s>Schnaittach</s> _No feasible transport_
+  * Rothenberg Fortress Ruins
+    * Can only be reached via SEV, **but no way to leave!!!**
+    * Not included in annual ticket.
+    * Opens Wed to Sun.
+    * 5€
