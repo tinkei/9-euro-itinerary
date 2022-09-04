@@ -43,7 +43,7 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * <s>14:24 Dinkelsbühl -> Dombühl -> Ansbach -> Steinach -> Rothenburg 16:51 (2h27min)</s>
     * <s>15:44 Dinkelsbühl -> Dombühl -> Ansbach -> Steinach -> Rothenburg 17:52 (2h08min)</s>
   * Connection with bus
-    * 14:20 Dinkelsbühl -> Dombühl Lindenstr. -> Rothenburg 16:25 (2h05min)
+    * <s>14:20 Dinkelsbühl -> Dombühl Lindenstr. -> Rothenburg 16:25 (2h05min)</s>
       * **807 is a Rufbus!!!**
   * Return trip
     * 22:05 Rothenburg -> Steinach -> Ansbach -> Nürnberg 23:20
@@ -66,8 +66,18 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * <s>14:37 Würzburg -> Frankfurt 16:32 (1h55min)</s>
 * 0830 (Tue) **Bayreuth**
   * Outbound leg
-    * 07:32 Nürnberg SEV (Nelson-Mandela-Platz/Südausgang) -> Hersbruck(r Pegnitz) -> Bayreuth Hbf 08:57 (1h25min)
-    * 08:05 Nürnberg SEV (Nelson-Mandela-Platz/Südausgang) -> Hersbruck(r Pegnitz) -> Bayreuth Hbf 09:31 (1h26min)
+    * 08:32 Nürnberg **SEV** (Nelson-Mandela-Platz/Südausgang) -> Hersbruck(r Pegnitz) -> Bayreuth Hbf <s>10:00 (1h28min)</s>
+      * It didn't say Südausgang, but it was!
+      * SEV took **twice** as long as the indicated 40min, without any traffic congestion!
+  * Connection 1
+    * 15:01 Bayreuth Luitpoldplatz (Bus #303) -> Parkplatz Eremitage 15:12
+  * Connection 2
+    * 17:00 Eremitage (Bus #303) -> ZOH, Bayreuth 17:17
+    * 17:33 ZOH, Bayreuth (Bus #373) -> Hotel Fantaisie 17:46
+  * Return trip
+    * 19:15 Hotel Fantaisie (Bus #376) -> Bayreuth 19:35
+    * 20:01 Bayreuth -> Nürnberg <s>21:27</s> 22:35
+      * Delay caused us to miss the SEV, **but the return SEV trip took only 30min** instead of the advertised 40min!!!
 * 0831 (Wed) **Nürnberg**
   * Outbound leg
     * 14:03 Nürnberg Fürth(Bay)Hbf -> Cadolzburg (Bus #126) -> Burg, Cadolzburg 14:31
@@ -76,22 +86,23 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * 16:01 Siegelsdorf (S6) -> Nürnberg 16:20
     * 16:38 Nürnberg (RE90) -> Ansbach 17:06
   * Return trip
-    * 19:14 Nürnberg -> Regensburg -> Freising -> OSH 23:44
+    * 19:36 Nürnberg -> Regensburg -> Freising -> OSH <s>22:14</s> 23:44
       * **Insane 90min delay!!!**
 
 ### Nürnberg plan: Main sights
 
 * 0826 (Fri) **Nürnberg and Kulmbach**
   * Nürnberg
-    * Leave bags at hostel locker
+    * Leave bags at hostel luggage room
   * Kulmbach
     * Plassenburg Castle
       * Opens daily 9am - 6pm
+      * Bus #5 from Kulmbach ZOB to Plassenburg
       * There are 4 museums inside!
       * "The Hohenzollerns in Franconia" museum can be visited only with a guided tour (in German) 9:15am - 3:15pm every hour and at 4:30pm
-      * Bus #5 from Kulmbach ZOB to Plassenburg
+      * Excellent armament museum!
     * Walk around the old town from East to West
-    * Museen im Mönchshof
+    * <s>Museen im Mönchshof</s> _No time_
       * Three museums: Brewery, bakery, spice
       * Opens 10am - 5pm, closed Mondays
       * Student price: €6 for one, €10 for two, €14 for three
@@ -103,10 +114,10 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * Deutsches Haus
     * Towers
   * Rothenburg
-    * Walk along city walls
+    * <s>Walk along city walls</s> _Didn't_
     * Main streets: Schmiedgasse, Herrngasse
     * Plönlein
-    * Mittelalterliches Kriminalmuseum
+    * <s>Mittelalterliches Kriminalmuseum</s> _Already closed_
       * Adult 8€, student 5€.
     * Marktplatz
     * Burggarten
@@ -130,7 +141,7 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
       * Opens Thu to Sun
       * Not included. Adult 7€, student 3.50€.
   * Bamberg
-    * Take bus to New Residence
+    * <s>Take bus to New Residence</s>
     * New Residence in Bamberg
       * Opens daily
     * Old town -> Bamberg Cathedral -> Old Rathaus -> ZOB -> Seehof Palace (Bus #907/#917)
@@ -147,27 +158,31 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * Würzburger Residenz
       * Opens daily
       * English guided tours at 11am and 3pm
+        * There was supposed to be only one English guided tour, but I followed some English-speaking cruise tour guide instead and missed half the real tour...
     * Marienberg Fortress and Prince's Building
       * Closed Mondays!
+        * And we visited on a Monday...
       * German guided tour every hour
-    * Veitshöchheim Palace (Veitshöchheim)
+    * <s>Veitshöchheim Palace (Veitshöchheim)</s> _No time_
       * Closed Mondays
       * Visit possible only with a guided tour.
-  * Frankfurt
+  * <s>Frankfurt</s>
     * Frankfurter Römer, Paulskirche, Frankfurt Cathedral, Eiserner Steg, Städel Museum, Main Tower
 * 0830 (Tue) **Bayreuth**
   * https://www.bayreuth-wilhelmine.de/englisch/tourist/opening.htm
   * Margravial Opera House
     * Opens daily 9am to 6pm
       * **But closed 30th afternoon, and 31th whole day**
-    * Lecture in English: 10:30
+    * Lecture in English: 10:30 (Missed due to delay!)
   * New Palace
     * Opens daily
     * The Italian Palace can only be visited with a guided tour
       * Every 30 minutes; duration 45 minutes, in German only, maximum 10 people.
+      * Must visit!
   * Hermitage Old Palace
     * Opens daily
-    * Visit possible only with a guided tour.
+    * <s>Visit possible only with a guided tour.</s>
+      * **NOPE! All interior visits are closed "due to COVID"!**
     * German guided tours every 45 minutes.
     * Waterworks from May to mid-October every hour:
       * Bassin at the New Palace 12 pm-5 pm
@@ -175,6 +190,7 @@ Will be staying at a&o Hostel Nürnberg for the duration of this period.
     * Bus 302/**303**/307 every few minutes until at least 7pm
   * Garden Museum Fantaisie Palace (Donndorf)
     * Closed Mondays
+    * Only visit its park is enough
     * Bus 373/375/376/396 every 30 minutes until at least 7pm
 * 0831 (Wed) **Nürnberg**
   * Frauenkirche and Sebalduskirche interior
